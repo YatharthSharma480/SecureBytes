@@ -1,0 +1,22 @@
+# Build output
+bin/
+out/
+build/
+target/
+*.class
+
+# IDE/editor settings
+.settings/
+.classpath
+.project
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime/generated files
+*.log
+*.tmp
+*.swp
